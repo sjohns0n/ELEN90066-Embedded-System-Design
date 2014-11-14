@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Game Console", "Game Console\Game Console.cproj", "{45303A73-AFA0-4DAF-A235-9ECAE98B405E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45303A73-AFA0-4DAF-A235-9ECAE98B405E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{45303A73-AFA0-4DAF-A235-9ECAE98B405E}.Debug|AVR.Build.0 = Debug|AVR
+		{45303A73-AFA0-4DAF-A235-9ECAE98B405E}.Release|AVR.ActiveCfg = Debug|AVR
+		{45303A73-AFA0-4DAF-A235-9ECAE98B405E}.Release|AVR.Build.0 = Debug|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
