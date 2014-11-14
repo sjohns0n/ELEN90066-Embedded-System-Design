@@ -1,0 +1,11 @@
+This repository contains the software I wrote for ELEN90066 Embedded System Design, Semester 2 2014.
+
+This runs on an Atmega16.
+Peripherals:
+	- FM25L16B 16K-bit Serial FRAM
+	- EA DOGS102W-6 Graphic LCD with SPI interface
+	- 74AHC30 8 input NAND gate
+	- Red and green LEDs
+	- SC120 Boost regulator for powering the system
+	- 9 tact switches for user input
+	- (optional) potentiometer input using the Atmegas internal ADC 
