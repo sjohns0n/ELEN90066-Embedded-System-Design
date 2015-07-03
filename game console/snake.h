@@ -71,7 +71,7 @@
 
 #define HEAD 0 // For first 'head' segment in segments[]
 
-#define SCORE_INCREMENT 1234
+#define SCORE_INCREMENT 100
 
 void snake(void);
 
